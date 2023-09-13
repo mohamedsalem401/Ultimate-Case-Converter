@@ -3,11 +3,8 @@
 Ultimate Case Converter is a simple web application that allows you to convert text between different case formats, such as sentence case, camelCase, kebab-case, snake_case, and more. You can use this tool to quickly convert text to your preferred case format.
 
 
-
-![image](https://github.com/mohamedsalem401/Ultimate-Case-Converter/assets/67981832/f015900f-c222-454e-9087-9d76a5851cd6)![image](https://github.com/mohamedsalem401/Ultimate-Case-Converter/assets/67981832/6dc4baa5-a221-466c-8263-587467c72a6b)
-
-
-
+![mohamedsalem401 github io_Ultimate-Case-Converter_ (1)](https://github.com/mohamedsalem401/Ultimate-Case-Converter/assets/67981832/cf47d3ab-2d80-4bfc-9ba5-4437cb3bc6af)
+![mohamedsalem401 github io_Ultimate-Case-Converter_](https://github.com/mohamedsalem401/Ultimate-Case-Converter/assets/67981832/701f80a7-32bc-40e0-80e7-566805a4a826)
 
 ### Usage
 
